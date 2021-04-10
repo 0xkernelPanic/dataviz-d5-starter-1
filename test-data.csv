@@ -1,0 +1,25 @@
+planning_area,subzone,age_group,sex,resident_count,year
+Ang Mo Kio,Cheng San,0_to_4,Males,810,2000
+Ang Mo Kio,Cheng San,0_to_4,Females,700,2000
+Ang Mo Kio,Cheng San,5_to_9,Males,1030,2000
+Ang Mo Kio,Cheng San,5_to_9,Females,960,2000
+Bedok,Bedok Reservoir,0_to_4,Males,590,2000
+Bedok,Bedok Reservoir,0_to_4,Females,480,2000
+Bedok,Bedok Reservoir,5_to_9,Males,750,2000
+Bedok,Bedok Reservoir,5_to_9,Females,670,2000
+Bukit Panjang,Bangkit,0_to_4,Males,860,2000
+Bukit Panjang,Bangkit,0_to_4,Females,830,2000
+Bukit Panjang,Bangkit,5_to_9,Males,1270,2000
+Bukit Panjang,Bangkit,5_to_9,Females,1240,2000
+Queenstown,Dover,0_to_4,Males,320,2000
+Queenstown,Dover,0_to_4,Females,300,2000
+Queenstown,Dover,5_to_9,Males,380,2000
+Queenstown,Dover,5_to_9,Females,360,2000
+Sengkang,Trafalgar,0_to_4,Males,0,2000
+Sengkang,Trafalgar,0_to_4,Females,0,2000
+Sengkang,Trafalgar,5_to_9,Males,0,2000
+Sengkang,Trafalgar,5_to_9,Females,0,2000
+Bukit Batok,Gombak,0_to_4,Males,20,2001
+Bukit Batok,Gombak,0_to_4,Females,20,2001
+Bukit Batok,Gombak,5_to_9,Males,30,2001
+Bukit Batok,Gombak,5_to_9,Females,30,2001

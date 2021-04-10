@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Data Visualization Project</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div id="container"></div>
+    <div id="conclusion_text">Conclusion text here</div>
+    <form>
+      Conclusion: <input type="text" id="user_text" maxlength="70" oninput="update_text()">
+    </form>
+    <script src="https://cdn.anychart.com/releases/8.9.0/js/anychart-bundle.min.js"></script>
+    <script src="https://cdn.anychart.com/geodata/2.1.0/countries/singapore/singapore.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
